@@ -1,125 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=60&lines=const+dev+%3D+%22bart+jason+edades%22;specialization+%3D+%22full-stack+web+developer%22" alt="Typing SVG"/>
+</picture>
+
+<br/>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=8B949E&center=true&vCenter=true&width=500&height=25&lines=Laravel+%C2%B7+React+%C2%B7+Vue+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+MySQL;building+production+systems+that+scale;antipolo%2C+ph+%E2%80%94+open+to+opportunities" alt="Subtitle"/>
+</picture>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97%20portfolio-koisjesun.vercel.app-0d1117?style=for-the-badge&logoColor=white)](https://koisjesun.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart-jason-guevarra-edades-a3a2993a5/)
+[![Facebook](https://img.shields.io/badge/Facebook-k4hel.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/k4hel.1/)
+[![Email](https://img.shields.io/badge/Email-wbartjason%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wbartjason@gmail.com)
+
 </div>
 
+---
+
+<details open>
+<summary><b>⚙️ stack</b></summary>
+<br/>
+
+**frontend**&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=flat-square&logo=livewire&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**backend**&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**mobile**&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**databases**&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**other languages**&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**tools**&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=flat-square&logo=shopify&logoColor=white)
+
+</details>
+
+---
+
 <div align="center">
-
-# Bart Jason G. Edades
-
-**`Full-Stack Developer`** &nbsp;·&nbsp; **`Laravel`** &nbsp;·&nbsp; **`React`** &nbsp;·&nbsp; **`Vue.js`**
-
-&nbsp;
-
-> *Building scalable web systems — from government platforms to e-commerce, one clean commit at a time.*
-
-&nbsp;
-
-[![Email](https://img.shields.io/badge/-wbartjason@gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wbartjason@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-koisjesun.vercel.app-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://koisjesun.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bart-jason-guevarra-edades-a3a2993a5/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0f0f0f?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/k4hel.1/)
-[![Location](https://img.shields.io/badge/-Antipolo,_PH-0f0f0f?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](#)
+<img src="https://streak-stats.demolab.com?user=koise&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" width="480"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-### About
-
-I'm a results-driven full-stack developer who thrives at the intersection of design and engineering.  
-I specialize in crafting production-ready systems — clean architecture, maintainable code, real users.  
-Currently shipping government-grade platforms at **Transcend Enterprise Solutions**.
-
-</div>
-
----
-
-### ⚡ Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=flat-square&logo=alpine.js&logoColor=8BC0D0)
-![Livewire](https://img.shields.io/badge/Livewire-0d1117?style=flat-square&logo=laravel&logoColor=FB70A9)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![SCSS](https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
-
-</div>
-
-### 🔧 Backend
-
-<div align="center">
-
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![Liquid](https://img.shields.io/badge/Liquid_(Shopify)-0d1117?style=flat-square&logo=shopify&logoColor=96BF48)
-
-</div>
-
-### 📱 Mobile
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=316192)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=07405E)
-
-</div>
-
-### 🛠 Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-0d1117?style=flat-square&logo=shopify&logoColor=96BF48)
-![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=21759B)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Mapbox](https://img.shields.io/badge/Mapbox-0d1117?style=flat-square&logo=mapbox&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
-
-### 💬 Also Fluent In
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=9B4F96)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-
-</div>
-
----
-
-<div align="center">
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=koise&theme=github-dark-blue&hide_border=true&background=0d1117)
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+<sub>always building · always shipping · <a href="https://koisjesun.vercel.app/">see the work →</a></sub>
 </div>
