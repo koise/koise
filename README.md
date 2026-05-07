@@ -115,10 +115,7 @@ Currently shipping government-grade platforms at **Transcend Enterprise Solution
 ---
 
 <div align="center">
-![GitHub Stats](https://readme-stats.vercel.app/api?username=koise&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=koise&theme=github-dark-blue&hide_border=true&background=0d1117)
-
 </div>
 
 ---
