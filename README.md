@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97%20portfolio-koisjesun.vercel.app-0d1117?style=for-the-badge&logoColor=white)](https://koisjesun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart-jason-guevarra-edades-a3a2993a5/)
 [![Facebook](https://img.shields.io/badge/Facebook-k4hel.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/k4hel.1/)
 [![Email](https://img.shields.io/badge/Email-wbartjason%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wbartjason@gmail.com)
